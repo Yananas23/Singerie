@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yanis/semaine 38.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c155c2981ef1a102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Massi/Llaunay.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yanis/semaine 38.md",
+                "file": "Massi/Llaunay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yanis/semaine 38.md",
+                "file": "Massi/Llaunay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yanis/semaine 38.md"
+                "file": "Massi/Llaunay.md"
               }
             }
           }
@@ -160,10 +148,10 @@
   },
   "active": "898d524c3f393c64",
   "lastOpenFiles": [
+    "Yanis/semaine 38.md",
     "Steven/Semaine 38",
     "Steven/Nouveau dossier",
     "Yanis/semaine 37.md",
-    "Yanis/semaine 38.md",
     "Massi/Llaunay.md",
     "Yanis/semaine 36.md",
     "why GitHub.md",
