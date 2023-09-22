@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yanis/semaine 38.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yanis/semaine 38.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yanis/semaine 38.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yanis/semaine 38.md"
+                "file": "git.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "898d524c3f393c64",
   "lastOpenFiles": [
-    "Massi/Llaunay.md",
+    "README.md",
+    "Massi/Semaine 38/Questions semaine 38.md",
+    "Massi/Semaine 38",
+    "git.md",
     "Untitled.canvas",
+    "all",
+    "Yanis/semaine 38.md",
+    "Yanis/truc à faire.md",
+    "Massi/Llaunay.md",
     "Steven/Semaine 40/Third attempt.md",
     "Steven/Semaine 40",
     "Steven/Semaine 39/Second attempt.md",
@@ -157,13 +164,10 @@
     "Steven/Semaine 38/First attempt.md",
     "Steven/Semaine 38",
     "Steven",
-    "Yanis/semaine 38.md",
     "Steven/Nouveau dossier",
     "Yanis/semaine 37.md",
     "Yanis/semaine 36.md",
-    "why GitHub.md",
-    "git.md",
-    "PilDeLeau.md",
-    "README.md"
+    "all/why GitHub.md",
+    "all/PilDeLeau.md"
   ]
 }
