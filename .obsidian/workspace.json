@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "Yanis/truc à faire.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "Yanis/truc à faire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "Yanis/truc à faire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "Yanis/truc à faire.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "898d524c3f393c64",
   "lastOpenFiles": [
+    "git.md",
     "README.md",
     "Massi/Semaine 38/Questions semaine 38.md",
     "Massi/Semaine 38",
-    "git.md",
     "Untitled.canvas",
     "all",
     "Yanis/semaine 38.md",
