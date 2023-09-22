@@ -4,3 +4,6 @@ Demander d'installer Obsidian --> Création d'un hub commun avec github (repo) a
 Vidéos sur obsidian par un hipster 
 
 git remote add nomdepot url --> gitpush  nomdepot -->  
+
+
+Merci de garder cela impact ! 
