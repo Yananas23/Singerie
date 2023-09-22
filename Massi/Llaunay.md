@@ -29,3 +29,5 @@ _Il existe aucun type de mémoire specifique seulement des habitude_
 
 -Pourquoi gitlab c’est chiant a utilisé ?
 _Il faut absolument faire chaque MAJ car si on en a une en retard on peut plus faire les suivante et tout bug_
+
+test
