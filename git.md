@@ -1,3 +1,4 @@
+#git
 # 1. Introduction
 
 Git est un outil de gestion de versions du code développé par **Linus Torval** fondateur de Linux pour gérer le développement du noyau Linux.

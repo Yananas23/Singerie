@@ -1,1 +1,0 @@
-faire des questions sur git (quand ? un jour)
