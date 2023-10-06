@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steven/Semaine 40/Pour compléter.md",
+                "file": "Steven/Semaine 40/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steven/Semaine 40/Pour compléter.md",
+                "file": "Steven/Semaine 40/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steven/Semaine 40/Pour compléter.md",
+                "file": "Steven/Semaine 40/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steven/Semaine 40/Pour compléter.md"
+                "file": "Steven/Semaine 40/notes.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a2172a20a8147fab",
   "lastOpenFiles": [
-    "Steven/Semaine 40/LES MÉTHODES AGILES & KANBAN.md",
     "Steven/Semaine 40/Pour compléter.md",
+    "Steven/Semaine 40/notes.md",
+    "Steven/Semaine 40/LES MÉTHODES AGILES & KANBAN.md",
     "Steven/Semaine 40/Third attempt.md"
   ]
 }
