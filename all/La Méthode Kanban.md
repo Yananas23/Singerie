@@ -3,9 +3,9 @@ QU'EST-CE QUE KANBAN TRES RAPIDEMENT !
 1. **Visualisation du Travail**:
     - Utilisation de **tableaux Kanban** pour voir le progrès.
     - **Cartes** représentant chaque tâche en mouvement.
-    - **Colonnes** indiquant les étapes du processus.
+    - **Colonnes** indiquant les étapes du processus. (à faire, en cours, terminé)
     
-2. **Limitation du Travail en Cours (WIP)**:
+2. **Limitation du Travail en Cours (WORK IN PROGRESS)**:
     - Évite la **surcharge** en limitant les tâches en cours.
     - Aide à la **gestion des priorités**.
     - Favorise un **flux de travail stable**.
@@ -25,6 +25,26 @@ QU'EST-CE QUE KANBAN TRES RAPIDEMENT !
     - **Analyse des données** pour des décisions éclairées.
     - Aide à l'**amélioration** du flux de travail basée sur les faits.
 
+
+# Application d'un exemple dans le cadre d'un étudiant.
+
+1. **Visualisation du Travail**:
+    
+    - L'étudiant utilise un **tableau Kanban** sur **Trello** pour organiser ses **devoirs**, **projets de groupe**, et **examens à préparer**. Chaque **tâche** est représentée par une **carte** qui est déplacée à travers les **colonnes** "À faire", "En cours", et "Terminé", permettant ainsi de visualiser clairement le **flux de travail** et de suivre l'avancement des tâches.
+2. **Limitation du Travail en Cours (WORK IN PROGRESS)**:
+    
+    - Pour éviter la **surcharge**, l'étudiant limite le nombre de **matières étudiées** par jour. Cela l'aide à gérer les **priorités**, à se concentrer sur les tâches les plus urgentes, et à maintenir un **flux de travail stable** sans se sentir submergé.
+3. **Gestion du Flux**:
+    
+    - L'étudiant planifie ses **sessions d'étude** pour optimiser son temps, en allouant des blocs de temps spécifiques à chaque **matière**. Il identifie et résout les **goulets d'étranglement**, par exemple en cherchant de l'aide sur des sujets difficiles, pour réduire les **temps d'attente** et les **encombrements** dans son emploi du temps.
+4. **Amélioration Continue**:
+    
+    - Avec une culture de **recherche constante d'amélioration**, l'étudiant évalue régulièrement ses **méthodes d'étude** et cherche des **rétroactions** de ses professeurs et camarades pour identifier les **opportunités d'amélioration**. Cela le conduit à ajuster ses **stratégies d'étude** et à améliorer continuellement sa **performance académique**.
+5. **Mesure et Analyse**:
+    
+    - L'étudiant utilise des **métriques** comme le temps passé sur chaque **matière**, les **notes obtenues**, et la **quantité de matériel couvert** pour évaluer sa performance. L'**analyse de ces données** l'aide à prendre des **décisions éclairées** pour ajuster son **planning d'étude** et son **approche d'apprentissage** en fonction des **résultats obtenus**.
+
+À travers cet exemple, on peut observer comment la méthode Kanban, bien que souvent associée au monde professionnel, peut être adaptée de manière créative pour gérer et améliorer les études et les performances académiques d'un étudiant.
 
 # Origines de la Méthode Kanban
 

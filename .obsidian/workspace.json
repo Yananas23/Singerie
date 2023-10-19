@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all/Suivi.md",
+                "file": "all/La Méthode Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all/Suivi.md",
+                "file": "all/La Méthode Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "all/Suivi.md",
+                "file": "all/La Méthode Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all/Suivi.md"
+                "file": "all/La Méthode Kanban.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a522d2e5ed360d3d",
+  "active": "d415db9852d1f144",
   "lastOpenFiles": [
-    "all/why GitHub.md",
-    "all/Suivi.md",
     "all/PilDeLeau.md",
-    "all/Les méthodes agiles.md",
+    "all/Suivi.md",
     "all/La Méthode Kanban.md",
+    "all/why GitHub.md",
+    "all/Les méthodes agiles.md",
     "2023-10-20.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
