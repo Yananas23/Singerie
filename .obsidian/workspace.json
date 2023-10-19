@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b9f59330eac340",
+        "id": "4938729674519394",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8e11d2a77dab8d",
+            "id": "a522d2e5ed360d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,13 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a8e11d2a77dab8d",
+  "active": "a522d2e5ed360d3d",
   "lastOpenFiles": [
+    "all/why GitHub.md",
+    "all/Suivi.md",
     "all/PilDeLeau.md",
+    "all/Les méthodes agiles.md",
+    "all/La Méthode Kanban.md",
+    "2023-10-20.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Steven/Semaine 40/LES MÉTHODES AGILES & KANBAN.md",
     "Steven/Semaine 40/notes.md",
     "Steven/Semaine 40/Anglais.md",
-    "all/Suivi.md",
     "Steven/Semaine 40/Pour compléter.md",
     "Steven/Semaine 40/Third attempt.md"
   ]
